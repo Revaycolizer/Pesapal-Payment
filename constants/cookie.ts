@@ -1,5 +1,4 @@
-export const COOKIE_NAME = "OurSchoolJWT";
-export const SEARCHED="searched";
+
 export const CUSTOMERKEYS = "NAZbeLH26LKbTbbKA0q97QD2HAdKai5r";
 export const SECRETKEYS ="uH6Td5J9YEX6wDJG6rnaQtfdbJM=";
 export const BaseUrl="https://cybqa.pesapal.com/pesapalv3/api/Auth/RequestToken"
